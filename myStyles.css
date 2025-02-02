@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(173, 173, 173);
+    border: 0px;
+    margin: 0;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+button {
+    border: 0;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+}
+
+
+.mypicture{
+    height: 300px;
+    margin: 0;
+}
+
+h1{
+    background-color: aliceblue;
+    margin: 0;    
+    justify-content: center;
+    text-align: center;
+    border: 0px;
+    margin: 0;
+}
+
+#description{
+    margin: 0;
+    background-color: aliceblue;
+    text-align: left;
+    font-size: 20px;
+    padding: 5%;
+}
+
+#container{
+    background-color: aliceblue;
+}
+
+#contacts{
+    background-color: aliceblue;
+    align-content: flex-end;
+    margin: 4%;
+    text-align: center;
+
+}
+
+#career{
+
+    margin: 0;
+    background-color: aliceblue;
+    text-align: left;
+    font-size: 20px;
+    padding: 5%;
+}
+
+#edu{
+
+    background-color: aliceblue;
+    align-content: flex-end;
+    margin: 4%;
+    text-align: center;
+
+}
